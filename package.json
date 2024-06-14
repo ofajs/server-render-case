@@ -1,0 +1,17 @@
+{
+  "name": "server-render-case",
+  "version": "1.0.0",
+  "description": "A case study using server-side rendering",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "koa": "^2.15.3",
+    "open": "^10.1.0"
+  }
+}
